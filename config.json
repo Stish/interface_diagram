@@ -1,0 +1,18 @@
+{
+    "column_map": {
+        "id":       "ID",
+        "provider": "Component providing",
+        "consumer": "Component consuming",
+        "name":     "Name",
+        "status":   "Status"
+    },
+    "status_map": {
+        "aligned": "aligned",
+        "draft":   "draft"
+    },
+    "status_colors": {
+        "aligned": "#1a7a1a",
+        "draft":   "#cc0000",
+        "unknown": "#666666"
+    }
+}

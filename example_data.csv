@@ -1,0 +1,43 @@
+ID;Component providing;Component consuming;Name;Status
+1;SWC_A;SWC_B;InterfaceAlpha;aligned
+2;SWC_A;SWC_D;InterfaceBeta;draft
+3;SWC_B;SWC_C;InterfaceGamma;aligned
+4;SWC_B;SWC_E;InterfaceDelta;draft
+5;SWC_C;SWC_A;InterfaceEpsilon;draft
+6;SWC_C;SWC_D;InterfaceZeta;aligned
+7;SWC_D;SWC_B;InterfaceEta;draft
+8;SWC_D;SWC_E;InterfaceTheta;aligned
+9;SWC_E;SWC_A;InterfaceIota;draft
+10;SWC_E;SWC_C;InterfaceKappa;aligned
+11;SWC_A;SWC_C, SWC_E;InterfaceLambda;draft
+12;SWC_B;SWC_A, SWC_D;InterfaceMu;aligned
+13;SWC_C;SWC_B;InterfaceNu;draft
+14;SWC_D;SWC_A;InterfaceXi;aligned
+15;SWC_E;SWC_B;InterfaceOmicron;draft
+16;SWC_A;SWC_E;InterfacePi;aligned
+17;SWC_B;SWC_D;InterfaceRho;draft
+18;SWC_C;SWC_E;InterfaceSigma;aligned
+19;SWC_D;SWC_C;InterfaceTau;draft
+20;SWC_E;SWC_D;InterfaceUpsilon;aligned
+21;SWC_A;SWC_B, SWC_C;InterfacePhi;draft
+22;SWC_B;SWC_E, SWC_A;InterfaceChi;aligned
+23;SWC_C;SWC_A;InterfacePsi;draft
+24;SWC_D;SWC_B;InterfaceOmega;aligned
+25;SWC_E;SWC_C;InterfaceAster;draft
+26;SWC_A;SWC_D;InterfaceBeacon;aligned
+27;SWC_B;SWC_C;InterfaceCircuit;draft
+28;SWC_C;SWC_E, SWC_B;InterfaceDeltaLink;aligned
+29;SWC_D;SWC_A;InterfaceEcho;draft
+30;SWC_E;SWC_B;InterfaceFlux;aligned
+31;SWC_A;SWC_C;InterfaceGlide;draft
+32;SWC_B;SWC_D, SWC_E;InterfaceHelix;aligned
+33;SWC_C;SWC_A;InterfaceIon;draft
+34;SWC_D;SWC_E;InterfaceJunction;aligned
+35;SWC_E;SWC_A, SWC_D;InterfaceKernel;draft
+36;SWC_A;SWC_B;InterfaceLoop;aligned
+37;SWC_B;SWC_C;InterfaceMatrix;draft
+38;SWC_C;SWC_D;InterfaceNode;aligned
+39;SWC_D;SWC_B, SWC_C;InterfaceOrbit;draft
+40;SWC_E;SWC_A;InterfacePulse;aligned
+41;SWC_A;SWC_E;InterfaceQuanta;draft
+42;SWC_B;SWC_A;InterfaceRelay;aligned
